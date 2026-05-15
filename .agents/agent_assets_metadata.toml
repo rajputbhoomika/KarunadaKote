@@ -1,0 +1,32 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "MARVNvQdoipRljNzypmJl"
+uri = "file://artifacts/karunada-kote/assets/images/icon.png"
+type = "image"
+title = "fort guide app icon"
+
+[[generated]]
+id = "W-nbuNgDxDrLHIfr4W9uh"
+uri = "file://artifacts/karunada-kote/assets/images/chitradurga_fort.png"
+type = "image"
+title = "chitradurga fort"
+
+[[generated]]
+id = "mzW3pYdD7Nh3toe8jH2B0"
+uri = "file://artifacts/karunada-kote/assets/images/bidar_fort.png"
+type = "image"
+title = "bidar fort"
+
+[[generated]]
+id = "utpKs15ZgdviELrDb-ElW"
+uri = "file://artifacts/karunada-kote/assets/images/onake_obavva.png"
+type = "image"
+title = "onake obavva crevice"
+
+[[generated]]
+id = "r0LdJzusxYIoEIDZaeMJM"
+uri = "file://artifacts/karunada-kote/assets/images/hidimbeshwara_temple.png"
+type = "image"
+title = "hidimbeshwara temple"

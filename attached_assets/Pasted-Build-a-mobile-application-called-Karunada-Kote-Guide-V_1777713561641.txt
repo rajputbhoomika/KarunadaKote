@@ -1,0 +1,105 @@
+Build a mobile application called "Karunada Kote Guide" (Virtual Historian App).
+
+🎯 Core Idea:
+This is a location-aware tourism app that acts as a virtual guide for historical forts in Karnataka (like Chitradurga, Bidar, etc.). The app uses GPS and storytelling to automatically narrate history as the user walks through the fort.
+
+---
+
+🧩 KEY FEATURES:
+
+1. Fort Selection Screen:
+- Show a list of forts (Chitradurga, Bidar, etc.)
+- Each fort has image, short description, and “Start Tour” button
+
+2. Guided Map Screen:
+- Display an interactive map of the fort
+- Show "Must-See" points (landmarks) as markers
+- Use GPS to track user location in real-time
+
+3. Smart Audio Guide:
+- When user reaches near a landmark (within ~50 meters), automatically:
+  - Trigger audio narration
+  - Show historical text/story
+- Audio available in Kannada and English
+- Include play/pause/replay controls
+
+4. Storytelling System:
+- Each landmark has:
+  - Title
+  - Story description
+  - Audio file
+  - Optional image
+
+5. Photo Challenge Feature:
+- Show tasks like:
+  - “Find the Onake Obavva crevice and take a photo”
+- Allow users to capture and save photos inside the app
+
+6. Progress Tracking:
+- Track visited/unlocked landmarks
+- Show completion percentage of tour
+
+---
+
+🎨 UI DESIGN:
+
+- Theme: Historical / Royal
+- Use parchment-style backgrounds
+- Use royal icons and earthy colors (brown, gold, dark red)
+- Clean and simple navigation
+
+---
+
+⚙️ TECH REQUIREMENTS:
+
+- Use GPS / location services
+- Use map integration (Google Maps or similar)
+- Store data locally or via simple backend (Firebase preferred)
+- Audio playback must continue even if screen is locked
+- Offline support preferred (pre-download fort data)
+
+---
+
+📊 DATA STRUCTURE:
+
+Each Fort:
+- Name
+- Description
+- Image
+- List of landmarks
+
+Each Landmark:
+- Name
+- Latitude & Longitude
+- Story text
+- Audio file
+- Image
+
+---
+
+🎯 GOALS:
+
+- Increase tourist engagement
+- Make history interactive and fun
+- Highlight engineering and architecture of forts
+
+---
+
+💡 BONUS FEATURES (if possible):
+
+- Multi-language support
+- AR mode (camera overlay storytelling)
+- Leaderboard for completed challenges
+
+---
+
+📱 OUTPUT:
+
+- Fully functional mobile app (Android preferred)
+- Clean UI + working GPS triggers
+- Sample data for at least 1 fort (Chitradurga)
+
+---
+
+IMPORTANT:
+Explain setup steps clearly since I am a non-coder.
